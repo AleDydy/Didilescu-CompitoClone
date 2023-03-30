@@ -1,0 +1,30 @@
+   34  cd progettoStampa
+   35  git log
+   36  ls
+   37  code .
+   38  git config user.name "AleDydy"
+   39  git config user.email "didilescu.alessio@itismeucci.com"
+   40  git add .
+   41  git commit -m "inserito nome"
+   42  git log
+   43  git branch
+   44  git branch BugFix
+   45  git branch
+   46  git checkout BugFix
+   47  git branch
+   48  git add .
+   49  git commit -m "errore risolto in stampa"
+   50  git log
+   51  git branch
+   52  git checkout master
+   53  git branch
+   54  git merge BugFix
+   55  git branch
+   56  git status
+   57  git branch -d BugFix
+   58  git branch
+   59  history 30 > comandi.txt
+   60  history 30> comandi.txt
+   61  ls
+   62  cat comandi.txt 
+   63  history 30 >> comandi.txt
